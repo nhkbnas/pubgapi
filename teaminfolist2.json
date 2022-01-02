@@ -1,0 +1,116 @@
+{
+"teamInfoList": [
+{
+"teamId": 4,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 1,
+"liveMemberNum": 0
+},
+{
+"teamId": 2,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 0,
+"liveMemberNum": 0
+},
+{
+"teamId": 15,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 0,
+"liveMemberNum": 0
+},
+{
+"teamId": 10,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 1,
+"liveMemberNum": 0
+},
+{
+"teamId": 16,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 14,
+"liveMemberNum": 3
+},
+{
+"teamId": 7,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 0,
+"liveMemberNum": 0
+},
+{
+"teamId": 5,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 7,
+"liveMemberNum": 0
+},
+{
+"teamId": 6,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 6,
+"liveMemberNum": 0
+},
+{
+"teamId": 9,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 10,
+"liveMemberNum": 0
+},
+{
+"teamId": 3,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 4,
+"liveMemberNum": 0
+},
+{
+"teamId": 1,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 0,
+"liveMemberNum": 0
+},
+{
+"teamId": 11,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 1,
+"liveMemberNum": 0
+},
+{
+"teamId": 8,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 2,
+"liveMemberNum": 0
+},
+{
+"teamId": 13,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 3,
+"liveMemberNum": 0
+},
+{
+"teamId": 14,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 1,
+"liveMemberNum": 0
+},
+{
+"teamId": 12,
+"isShowLogo": false,
+"logoPicUrl": "",
+"killNum": 8,
+"liveMemberNum": 0
+}
+]
+}
